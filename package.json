@@ -1,0 +1,14 @@
+{
+  "name": "grunt-sass-cssmin",
+  "version": "0.0.1",
+  "description": "Simple SASS-CSSMIN build system",
+  "main": "",
+  "repository": "",
+  "author": "Gabesz",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
