@@ -9,5 +9,8 @@
   <li>grunt-cli, you can install globaly: npm install -g grunt-cli</li>
 </ul>
 
-<p>Install package: npm install<br />
-Usage: grunt watch</p>
+<h2>Install</h2>
+<p>npm install</p>
+
+<h2>Usage</h2>
+grunt watch</p>
