@@ -2,5 +2,5 @@
 <h2>Simple SASS-CSSMIN build system</h2>
 <hr />
 
-Install package: npm install
+Install package: npm install<br />
 Usage: grunt watch
