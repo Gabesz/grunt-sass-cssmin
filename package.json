@@ -2,8 +2,7 @@
   "name": "grunt-sass-cssmin",
   "version": "0.0.1",
   "description": "Simple SASS-CSSMIN build system",
-  "main": "",
-  "repository": "",
+  "repository": "Gabesz/grunt-sass-cssmin",
   "author": "Gabesz",
   "devDependencies": {
     "grunt": "^1.0.1",
