@@ -5,7 +5,7 @@
 
 <h2>Requirement packages</h2>
 <ul>
-  <li>grunt-cli, you can install globaly: npm install -g grunt-cli</li>
+  <li><a href="https://github.com/gruntjs/grunt-cli">gruntjs/grunt-cli</a>, you can install globaly: npm install -g grunt-cli</li>
 </ul>
 
 <h2>Install</h2>
